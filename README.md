@@ -1,1 +1,2 @@
 # DFKI-multi_ball_tracking
+This project was done to detect tracking and position of multiple balls juggled by a robot. The repository includes the implementation of ball tracking with OpenCV from pyimagesearch and has been modified according to the required application. The case scenarios are defined by the use of multiple balls, single balls, two balls, etc. for the detection of outer boundary and the center of the balls in space.
